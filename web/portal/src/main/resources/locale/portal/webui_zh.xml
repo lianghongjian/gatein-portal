@@ -566,7 +566,7 @@
       </title>
     </action>
     <label>
-      <publicMode>使之公开（每个人都可以访问）：</publicMode>
+      <publicMode>使之公开（所有人都可以访问）：</publicMode>
     </label>
   </UIListPermissionSelector>
   <UIGroupMembershipSelector>
