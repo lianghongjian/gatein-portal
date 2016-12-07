@@ -9,8 +9,8 @@
       <password2x>确认密码：</password2x>
       <password>密码：</password>
       <Confirmpassword>确认密码：</Confirmpassword>
-      <firstName>#{word.firstName}:</firstName>
-      <lastName>#{word.lastName}:</lastName>
+      <firstName>#{word.lastName}:</firstName>
+      <lastName>#{word.firstName}:</lastName>
       <email>电子邮件地址：</email>
       <note><![CDATA[<span style="color: red">*</span>必须填写]]></note>
       <action>
