@@ -176,7 +176,7 @@
       <UIContainerList>容器</UIContainerList>
       <UIPermissionSelector>编辑权限设置</UIPermissionSelector>
       <UIListPermissionSelector>访问权限设置</UIListPermissionSelector>
-      <UIAccountProfiles>帐户概况</UIAccountProfiles>
+      <UIAccountProfiles>账户概况</UIAccountProfiles>
       <UIAccountChangePass>修改密码</UIAccountChangePass>
     </title>
   </UITabPane>
@@ -294,19 +294,19 @@
     <left>
       <title>示例帐户模板预览</title>
     </left>
-    <title>帐户模板</title>
+    <title>账户模板</title>
   </AccountTemplate>
   <DefaultAccount>
-    <label>默认帐户</label>
+    <label>默认账户</label>
   </DefaultAccount>
   <CommunityAccount>
-    <label>社区帐户</label>
+    <label>社区账户</label>
   </CommunityAccount>
   <CompanyAccount>
-    <label>公司帐户</label>
+    <label>公司账户</label>
   </CompanyAccount>
   <AdminAccount>
-    <label>管理员帐户</label>
+    <label>管理员账户</label>
   </AdminAccount>
 
   <NameValidator>
@@ -332,7 +332,7 @@
       <empty-input>用户名不能为空。</empty-input>
       <successful>
         <create>
-          <user>您已经注册一个新帐户。</user>
+          <user>您已经注册一个新账户。</user>
         </create>
         <update>
           <user>用户配置文件已被更新。</user>
@@ -381,7 +381,7 @@
       <NotMember>还不是会员？</NotMember>
       <Signup>注册</Signup>
       <Signin>登录</Signin>
-      <ForAccount>立即注册一个帐户</ForAccount>
+      <ForAccount>立即注册一个账户</ForAccount>
       <SigninFail>登录失败。用户名或密码错误。</SigninFail>
       <Copyright>
         <![CDATA[Copyright &copy; 2009-2012. All rights Reserved, eXo Platform SAS and Red Hat, Inc.]]></Copyright>
@@ -1355,7 +1355,7 @@
     <mail>
       <header>非常感谢您与我们联系，您已经申请取回用户名和密码。</header>
       <footer>谢谢。</footer>
-      <user>您帐户的用户名是：</user>
+      <user>您账户的用户名是：</user>
       <password>您的密码是：</password>
       <link>您可以为这个用户名申请一个新的密码，请点击链接：</link>
     </mail>
@@ -1558,7 +1558,7 @@
   <UIAccountSetting>
     <tab>
       <label>
-        <UIAccountProfiles>帐户概况</UIAccountProfiles>
+        <UIAccountProfiles>账户概况</UIAccountProfiles>
         <UIAccountChangePass>修改密码</UIAccountChangePass>
       </label>
     </tab>
@@ -1580,7 +1580,7 @@
     </label>
     <msg>
       <update>
-        <success>帐户信息已更新。</success>
+        <success>账户信息已更新。</success>
       </update>
     </msg>
   </UIAccountProfiles>

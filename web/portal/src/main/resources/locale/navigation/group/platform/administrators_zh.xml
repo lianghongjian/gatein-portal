@@ -3,7 +3,7 @@
   <administration>
     <title>管理</title>
     <application-registry>应用申请</application-registry>
-    <newAccount>新帐户</newAccount>
+    <newAccount>新账户</newAccount>
     <community-management>社区管理</community-management>
     <i18n>国际化</i18n>
     <console>Web 控制台</console>

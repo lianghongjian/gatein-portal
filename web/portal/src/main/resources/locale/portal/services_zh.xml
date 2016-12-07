@@ -68,8 +68,8 @@
     <page-out-of-range>您尝试打开网页{0}，但是只有网页{1}可用</page-out-of-range>
   </PageList>
   <MessageService>
-    <account-not-found>无法为用户{1}找到帐户{0}</account-not-found>
-    <invalid-standalone-message-address>您正在使用独立帐户类型\地址{0}是无效的。系统需要的地址格式是：\收件人#帐户名</invalid-standalone-message-address>
+    <account-not-found>无法为用户{1}找到账户{0}</account-not-found>
+    <invalid-standalone-message-address>您正在使用独立账户类型\地址{0}是无效的。系统需要的地址格式是：\收件人#账户名</invalid-standalone-message-address>
     <send-message-fail>不能发送消息。请检查您的电子邮件地址 \n\ 错误：{0}</send-message-fail>
   </MessageService>
   <Searcher>

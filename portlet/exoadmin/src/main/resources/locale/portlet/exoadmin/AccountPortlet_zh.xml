@@ -81,7 +81,7 @@
       </user>
       <BusinessInfo>商务信息</BusinessInfo>
     </label>
-    <title>增加/编辑帐户</title>
+    <title>增加/编辑账户</title>
     <action>
       <Reset>重置</Reset>
       <Back>#{word.back}</Back>
@@ -98,9 +98,9 @@
     </msg>
     <tab>
       <label>
-        <AccountTemplate>帐户模板</AccountTemplate>
+        <AccountTemplate>账户模板</AccountTemplate>
         <UIUserProfileInputSet>用户配置文件</UIUserProfileInputSet>
-        <AccountInputSet>帐户设置</AccountInputSet>
+        <AccountInputSet>账户设置</AccountInputSet>
         <UIUserMembershipSelector>用户会员</UIUserMembershipSelector>
       </label>
     </tab>
