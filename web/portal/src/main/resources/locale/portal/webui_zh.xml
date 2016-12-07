@@ -1574,8 +1574,8 @@
     </action>
     <label>
       <userName>用户名：</userName>
-      <firstName>名：</firstName>
-      <lastName>姓：</lastName>
+      <firstName>姓：</firstName>
+      <lastName>名：</lastName>
       <email>电子邮件：</email>
     </label>
     <msg>
@@ -1748,15 +1748,15 @@
     <label>
       <option>
         <userName>用户名</userName>
-        <lastName>姓</lastName>
-        <firstName>名</firstName>
+        <lastName>名</lastName>
+        <firstName>姓</firstName>
         <email>电子邮件地址</email>
       </option>
       <group>组：</group>
       <searchUser>搜索：</searchUser>
       <userName>用户名</userName>
-      <lastName>姓</lastName>
-      <firstName>名</firstName>
+      <lastName>名</lastName>
+      <firstName>姓</firstName>
       <email>电子邮件</email>
       <action>操作</action>
       <Add>添加</Add>
